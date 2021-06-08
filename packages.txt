@@ -1,2 +1,2 @@
 ffmpeg
-python3.9
+python3.8
